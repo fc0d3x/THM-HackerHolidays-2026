@@ -26,7 +26,8 @@ The writeups in this repository explain the methods, commands, and reasoning I u
 | 13  | The Guestbook                | AI / Prompt Injection         | ✅      |
 | 14  | Management Wants a Word      | Digital Forensics             | ✅      |
 
-[THM-DE80BUZRGF.pdf](https://github.com/user-attachments/files/31317548/THM-DE80BUZRGF.pdf)
+<img width="1019" height="618" alt="2026-08-21 21_51_37-Hacker Holidays26 - CTF - File Explorer" src="https://github.com/user-attachments/assets/6d46e1f6-88f1-4d36-a3da-8a673f64e06a" />
+
 
 
 ## ⚠️ Disclaimer
