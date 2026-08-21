@@ -10,7 +10,6 @@ The writeups in this repository explain the methods, commands, and reasoning I u
 
 | Day | Challenge | Topic | Status |
 | --- | --- | --- | --- |
-| 00 | [The Brochure](day-00-the-brochure/Day-00-The-Brochure-Writeup.pdf) | OSINT | ✅ |
 | 01 | [The Concierge Knows Too Much](day-01-the-concierge-knows-too-much/Day-01-The-Concierge-Knows-Too-Much-Writeup.pdf) | AI / Prompt Injection | ✅ |
 | 02 | [Room 404](day-02-room-404/Day-02-Room-404-Writeup.pdf) | Web / Directory Enumeration | ✅ |
 | 03 | [Complimentary](day-03-complimentary/Day-03-Complimentary-Writeup.pdf) | Cloud Security / AWS | ✅ |
