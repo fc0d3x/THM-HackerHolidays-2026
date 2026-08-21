@@ -15,9 +15,9 @@ The writeups in this repository explain the methods, commands, and reasoning I u
 | 02  | Room 404                     | Web / Directory Enumeration   | ✅      |
 | 03  | Complimentary                | Cloud Security / AWS          | ✅      |
 | 04  | Packed Light                 | Network Forensics / PCAP      | ✅      |
-| 05  | Beach Bar                    | Boot2Root / Pentesting        | ✅      |
+| 05  | Beach Bar                    | Boot2Root                     | ✅      |
 | 06  | Overheard at Breakfast       | OSINT                         | ✅      |
-| 07  | Do Not Disturb               | Boot2Root / Pentesting        | ✅      |
+| 07  | Do Not Disturb               | Boot2Root                     | ✅      |
 | 08  | Towel on the Sunbed          | Web Exploitation / Burp Suite | ✅      |
 | 09  | CryptoCabana                 | Cloud / Azure                 | ✅      |
 | 10  | The Hollow Shell             | Web / Zip Slip                | ✅      |
