@@ -26,6 +26,7 @@ The writeups in this repository explain the methods, commands, and reasoning I u
 | 13  | The Guestbook                | AI / Prompt Injection         | ✅      |
 | 14  | Management Wants a Word      | Digital Forensics             | ✅      |
 
+[THM-DE80BUZRGF.pdf](https://github.com/user-attachments/files/31317548/THM-DE80BUZRGF.pdf)
 
 
 ## ⚠️ Disclaimer
