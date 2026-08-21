@@ -6,7 +6,6 @@ A new challenge is released each day, covering subjects such as OSINT, web explo
 
 The writeups in this repository explain the methods, commands, and reasoning I used while solving each challenge.
 
-## Progress
 
 ## Progress
 
