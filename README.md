@@ -8,22 +8,25 @@ The writeups in this repository explain the methods, commands, and reasoning I u
 
 ## Progress
 
-| Day | Challenge | Topic | Status |
-| --- | --- | --- | --- |
-| 01 | [The Concierge Knows Too Much](day-01-the-concierge-knows-too-much/Day-01-The-Concierge-Knows-Too-Much-Writeup.pdf) | AI / Prompt Injection | ✅ |
-| 02 | [Room 404](day-02-room-404/Day-02-Room-404-Writeup.pdf) | Web / Directory Enumeration | ✅ |
-| 03 | [Complimentary](day-03-complimentary/Day-03-Complimentary-Writeup.pdf) | Cloud Security / AWS | ✅ |
-| 04 | [Packed Light](day-04-packed-light/Day-04-Packed-Light-Writeup.pdf) | Network Forensics / PCAP | ✅ |
-| 05 | [Beach Bar](day-05-beach-bar/Day-05-Beach-Bar-Writeup.pdf) | Boot2Root / Pentesting | ✅ |
-| 06 | [Overheard at Breakfast](day-06-overheard-at-breakfast/Day-06-Overheard-at-Breakfast-Writeup.pdf) | OSINT | ✅ |
-| 07 | [Do Not Disturb](day-07-do-not-disturb/Day-07-Do-Not-Disturb-Writeup.pdf) | Boot2Root / Pentesting | ✅ |
-| 08 | [Towel on the Sunbed](day-08-towel-on-the-sunbed/Day-08-Towel-on-the-Sunbed-Writeup.pdf) | Web Exploitation / Burp Suite | ✅ |
-| 09 | [CryptoCabana](day-09-cryptocabana/Day-09-CryptoCabana-Writeup.pdf) | Cloud / Azure | ✅ |
-| 10 | [The Hollow Shell](day-10-the-hollow-shell/Day-10-The-Hollow-Shell-Writeup.pdf) | Web / Zip Slip | ✅ |
-| 11 | [Infinity Pool](day-11-infinity-pool/Day-11-Infinity-Pool-Writeup.pdf) | Boot2Root | ✅ |
-| 12 | [After Hours](day-12-after-hours/Day-12-After-Hours-Writeup.pdf) | Digital Forensics | ✅ |
-| 13 | [The Guestbook](day-13-the-guestbook/Day-13-The-Guestbook-Writeup.pdf) | AI / Prompt Injection | ✅ |
-| 14 | [Management Wants a Word](day-14-management-wants-a-word/Day-14-Management-Wants-a-Word-Writeup.pdf) | Digital Forensics | ✅ |
+## Progress
+
+| Day | Challenge                    | Topic                         | Status |
+| --- | ---------------------------- | ----------------------------- | ------ |
+| 01  | The Concierge Knows Too Much | AI / Prompt Injection         | ✅      |
+| 02  | Room 404                     | Web / Directory Enumeration   | ✅      |
+| 03  | Complimentary                | Cloud Security / AWS          | ✅      |
+| 04  | Packed Light                 | Network Forensics / PCAP      | ✅      |
+| 05  | Beach Bar                    | Boot2Root / Pentesting        | ✅      |
+| 06  | Overheard at Breakfast       | OSINT                         | ✅      |
+| 07  | Do Not Disturb               | Boot2Root / Pentesting        | ✅      |
+| 08  | Towel on the Sunbed          | Web Exploitation / Burp Suite | ✅      |
+| 09  | CryptoCabana                 | Cloud / Azure                 | ✅      |
+| 10  | The Hollow Shell             | Web / Zip Slip                | ✅      |
+| 11  | Infinity Pool                | Boot2Root                     | ✅      |
+| 12  | After Hours                  | Digital Forensics             | ✅      |
+| 13  | The Guestbook                | AI / Prompt Injection         | ✅      |
+| 14  | Management Wants a Word      | Digital Forensics             | ✅      |
+
 
 
 ## ⚠️ Disclaimer
