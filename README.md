@@ -1,4 +1,4 @@
-Hacker Holidays 2026 – Challenge Notes
+# Hacker Holidays 2026 – Challenge Notes
 
 This repository documents my progress through TryHackMe's Hacker Holidays 2026, a 14-day cybersecurity event set in The Byte Lotus resort.
 
@@ -6,7 +6,7 @@ A new challenge is released each day, covering subjects such as OSINT, web explo
 
 The writeups in this repository explain the methods, commands, and reasoning I used while solving each challenge.
 
-Progress
+## Progress
 Day	Challenge	Topic	Status
 00	The Brochure	OSINT	✅
 01	The Concierge Knows Too Much	AI / Prompt Injection	✅
@@ -25,7 +25,7 @@ Day	Challenge	Topic	Status
 14	Management Wants a Word	Digital Forensics	✅
 
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 These writeups are provided for educational purposes only.
 
@@ -33,4 +33,4 @@ The techniques demonstrated were performed in intentionally vulnerable TryHackMe
 
 All writeups reflect my own approach to solving the challenges.
 
-⭐ If you found these writeups useful, consider starring the repository.
+### ⭐ If you found these writeups useful, consider starring the repository.
